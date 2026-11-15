@@ -1,6 +1,6 @@
 # Semi-Supervised Learning 세미나: 가정이 깨지는 조건에서의 SSL 기법 비교 실험
 
-대학원 수업 「기계지능특론」의 Semi-Supervised Learning(SSL) 세미나(2026년 11월)의 Experiment 섹션에 쓴 코드와 실행 결과.
+대학원 수업 「기계지능특론」의 Semi-Supervised Learning(SSL) 세미나의 Experiment 섹션에 쓴 코드와 실행 결과.
 
 | 논문 | 이어받은 고전 기법 | 완화한 가정 |
 | --- | --- | --- |
