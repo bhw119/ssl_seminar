@@ -1,8 +1,6 @@
 # Semi-Supervised Learning 세미나: 가정이 깨지는 조건에서의 SSL 기법 비교 실험
 
-대학원 수업 「기계지능특론」의 Semi-Supervised Learning(SSL) 세미나(2026년 11월)의 Experiment 섹션에 쓴 코드와 실행 결과다.
-
-발표는 교안의 고전 SSL 기법(Self-training, Generative model, S3VM, Graph-based)이 어떤 가정 위에 서 있는지 정리하고, 최신 논문 세 편이 그 가정을 어떻게 완화했는지 살펴본 뒤, 실험으로 확인하는 순서다. 이 저장소의 중심은 마지막의 실험이다.
+대학원 수업 「기계지능특론」의 Semi-Supervised Learning(SSL) 세미나(2026년 11월)의 Experiment 섹션에 쓴 코드와 실행 결과.
 
 | 논문 | 이어받은 고전 기법 | 완화한 가정 |
 | --- | --- | --- |
