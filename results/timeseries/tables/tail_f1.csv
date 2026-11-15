@@ -1,0 +1,7 @@
+,조건 B (분포 불일치)
+Supervised only,0.429 ± 0.034
+Self-training,0.419 ± 0.024
+FixMatch,0.429 ± 0.047
+CGMatch,0.417 ± 0.036
+InterLUDE,0.396 ± 0.012
+SC-SSL,0.512 ± 0.046
