@@ -1,0 +1,8 @@
+,같은 종 unlabeled
+"InterLUDE, DC 제거 (EF만)",-0.002 ± 0.000
+"InterLUDE, EF 제거 (DC만)",+0.003 ± 0.000
+"CGMatch, ambiguous 손실 제거",-0.015 ± 0.000
+"CGMatch, Count-Gap 대신 확신도로 분할",+0.001 ± 0.000
+"SC-SSL, unlabeled 분포를 균등으로 가정",-0.008 ± 0.000
+"SC-SSL, 원 코드 최적화 (상수 lr)",-0.027 ± 0.000
+"SC-SSL, 원 코드 최적화 + unlabeled ×2",-0.119 ± 0.000

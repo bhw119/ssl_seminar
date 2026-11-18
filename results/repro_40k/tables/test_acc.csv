@@ -1,0 +1,4 @@
+,같은 종 unlabeled
+Supervised only,0.410 ± 0.000 (n=1)
+FixMatch,0.478 ± 0.000 (n=1)
+InterLUDE,0.491 ± 0.000 (n=1)

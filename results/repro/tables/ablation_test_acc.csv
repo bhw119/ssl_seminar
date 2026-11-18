@@ -1,0 +1,11 @@
+,같은 종 unlabeled
+CGMatch,0.514 ± 0.000 (n=1)
+InterLUDE,0.476 ± 0.000 (n=1)
+SC-SSL,0.439 ± 0.000 (n=1)
+"InterLUDE, DC 제거 (EF만)",0.473 ± 0.000 (n=1)
+"InterLUDE, EF 제거 (DC만)",0.479 ± 0.000 (n=1)
+"CGMatch, ambiguous 손실 제거",0.498 ± 0.000 (n=1)
+"CGMatch, Count-Gap 대신 확신도로 분할",0.515 ± 0.000 (n=1)
+"SC-SSL, unlabeled 분포를 균등으로 가정",0.431 ± 0.000 (n=1)
+"SC-SSL, 원 코드 최적화 (상수 lr)",0.412 ± 0.000 (n=1)
+"SC-SSL, 원 코드 최적화 + unlabeled ×2",0.320 ± 0.000 (n=1)

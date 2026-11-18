@@ -1,0 +1,6 @@
+,같은 종 unlabeled
+Supervised only,0.448 ± 0.000 (n=1)
+FixMatch,0.525 ± 0.000 (n=1)
+CGMatch,0.541 ± 0.000 (n=1)
+InterLUDE,0.523 ± 0.000 (n=1)
+SC-SSL,0.437 ± 0.000 (n=1)
